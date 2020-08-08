@@ -8,3 +8,5 @@ student math and readin scores
 aggregate and showcase trends
 FERPA - Faminly Educational Rights and Privacy Act of student education records
 
+## To get kernel to run properly
+python -m ipykernel install --user --name PythonData
